@@ -11,7 +11,7 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
 Duration = 16;
 
 print("Not me!!! its made by OmarXploits#4197")
-warn("lol why am i putting a warning here? just for fun giving a away a giftcard code lol its 10€ the first guy of u guys seeing this can receive it. code is = RBXT78KJGTUI47VD94LQ  sorry if someone used it already. Now subscribe noob idk why u even openend console BRUHHH now subscribe or noob! don't be noob ok?")
+warn("Neptunian V Fixed Loaded!")
 
 
 for i,v in next, game:GetService("Players").LocalPlayer.Character:GetDescendants() do
